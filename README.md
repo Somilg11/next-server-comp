@@ -39,7 +39,11 @@ This project is a fully responsive blogging platform built with **Next.js**. It 
 ![Suspense](https://img.shields.io/badge/Suspense-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![Server Actions](https://img.shields.io/badge/Server_Actions-333333?style=flat&logo=nextdotjs&logoColor=white)
 ![Server Components](https://img.shields.io/badge/Server_Components-333333?style=flat&logo=nextdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 - **Next.js**: React-based framework for building full-stack web applications.
+- **SQLite**: Lightweight database used in development for local data persistence.
+- **Prisma**: Modern ORM for Node.js and TypeScript.
 - **TypeScript**: Superset of JavaScript that ensures static type checking.
 - **TailwindCSS**: Utility-first CSS framework.
 - **ShadCN UI**: Styled, customizable UI components.
